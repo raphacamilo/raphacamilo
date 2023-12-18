@@ -13,7 +13,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=graphql,apollo,git,css,sass,tailwind,styledcomponents,wordpress,docker,express,redux,github,githubactions,html,java,js,ts,py,linux,md,bootstrap,materialui,regex,react,nextjs,gatsbyjs,nodejs,postman,netlify,pug,discord,bots,eclipse,electron,codepen,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=graphql,apollo,git,css,sass,tailwind,styledcomponents,wordpress,docker,express,redux,github,githubactions,html,java,js,ts,py,linux,md,bootstrap,materialui,regex,react,nextjs,gatsbyjs,nodejs,jest,postman,netlify,pug,discord,bots,eclipse,electron,codepen,figma&perline=14" />
   </a>
 </p>
 
